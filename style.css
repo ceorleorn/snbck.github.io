@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC:300,500');
+@import url('https://fonts.googleapis.com/css?family=Sunflower:300,500');
+  .body {
+    font-family: 'Noto Sans TC';
+    margin: 80px auto;
+    max-width: 800px;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 1.44;
+  }
+
+  a {
+    color:#2e768d;
+  }
+
+  small {
+    font-size: 12px;
+      color: black;;
+  }
+
+  h1 {
+    font-weight: 300;
+    font-size: 60px;
+    text-align: center;
+    color: #666;
+  }
